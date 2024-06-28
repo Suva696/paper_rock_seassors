@@ -1,0 +1,7 @@
+{
+
+"rewrites": [
+{"source": "/(.*)", "destination": "/paper_rock_seassors.html"}
+
+     ]
+}
